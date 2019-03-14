@@ -1,1 +1,5 @@
-jackwade hello hello hello  123445!
+<<<<<<< HEAD
+jackwade hello hello hello  123445!  no way! you can't modify this file ok !:
+=======
+jackwade hello hello!
+>>>>>>> feature1
